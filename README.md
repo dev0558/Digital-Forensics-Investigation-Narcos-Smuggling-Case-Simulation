@@ -1,7 +1,7 @@
 # 🕵️ Digital Forensics Investigation – Narcos Smuggling Case Simulation
 
-**Course**: ICT378 – Cyber Forensics and Incident Response  
-**Institution**: Murdoch University  
+**Course**: Cyber Forensics and Incident Response  
+
 **Date**: April 2025  
 **Tools Used**: FTK Imager, Autopsy, OSForensics, Volatility, Steghide, HashCalc, Windows Virtual Lab  
 
